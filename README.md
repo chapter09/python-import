@@ -10,6 +10,11 @@ Using this template, we explore potential traps in the following importing scena
 * Importing modules in `__init__.py`
 * ...
 
+Todo:
+
+- [] namespace package v.s. regular package
+
+
 ```
 ├── impt
 │   ├── __init__.py
