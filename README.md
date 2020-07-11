@@ -12,7 +12,7 @@ Using this template, we explore potential traps in the following importing scena
 
 Todo:
 
--[] namespace package v.s. regular package
+- [ ] namespace package v.s. regular package
 
 
 ```
