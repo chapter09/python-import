@@ -1,6 +1,14 @@
-# python-import
-An template for exploring Python import mechanism 
+# Python3 Import
 
+An code template for exploring Python import mechanism. 
+
+Using this template, we explore potential traps in the following importing scenarios.
+
+* Importing a local module
+* Importing a sibling submodule from a submodule
+* Importing a module from the parent directory
+* Importing modules in `__init__.py`
+* ...
 
 ```
 ├── impt
